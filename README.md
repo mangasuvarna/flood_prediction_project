@@ -234,17 +234,6 @@ This project can be deployed on platforms such as:
 
 ---
 
-## 📸 Screenshots
-
-You can add screenshots of:
-
-- Home Page
-- Prediction Form
-- Prediction Result
-- History Page
-
----
-
 ## 🔮 Future Enhancements
 
 - Live Weather API Integration
